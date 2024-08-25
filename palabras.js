@@ -1,0 +1,20 @@
+const palabras = [
+    'Oso',
+    'Avion',
+    'Manzana',
+    'Computadora',
+    'Llanta',
+    'Casa',
+    'Diablo',
+    'Futbol',
+    'Libreta',
+    'Escuela',
+    'Teclado',
+    'Audifonos',
+    'Musica',
+    'Television',
+    'Vaso',
+    'Gato',
+    'Ferrocarril',
+    'Motocicleta'
+]
